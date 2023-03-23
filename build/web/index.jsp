@@ -36,7 +36,7 @@
                 <p>Welcome to Technical Blog, world of Technology</p>
                 
                 <button class="btn btn-outline-dark  border border-dark btn-lg"><span class="fa fa-bullhorn "></span>Start! Its free</button>
-                <button class="btn btn-outline-dark border border-dark btn-lg"><span class="fa fa-podcast fa-spin"></span>Login</button>
+                <a href="login_page.jsp" class="btn btn-outline-dark border border-dark btn-lg"><span class="fa fa-podcast fa-spin"></span>Login</a>
                 
                 </div>
                 </div>
