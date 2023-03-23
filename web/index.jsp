@@ -35,7 +35,7 @@
                 <h3>to Tech Blog</h3>
                 <p>Welcome to Technical Blog, world of Technology</p>
                 
-                <button class="btn btn-outline-dark  border border-dark btn-lg"><span class="fa fa-bullhorn "></span>Start! Its free</button>
+                <a href="register_page.jsp" class="btn btn-outline-dark  border border-dark btn-lg"><span class="fa fa-bullhorn "></span>Start! Its free</a>
                 <a href="login_page.jsp" class="btn btn-outline-dark border border-dark btn-lg"><span class="fa fa-podcast fa-spin"></span>Login</a>
                 
                 </div>
